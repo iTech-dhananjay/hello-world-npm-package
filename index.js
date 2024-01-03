@@ -2,13 +2,13 @@
 
 /*
 # Step 1: Initialize your npm project and follow the prompts
-npm init
+->npm init
 
 # Step 2: Log in to your npm account
-npm login
+->npm login
 
 # Step 3: Publish your npm package to the registry
-npm publish
+->npm publish
 
 # After publishing, your package will be available on the npm registry for others to use
 # Users can install it in their projects using 'npm install my-npm-package-v1.0.0'
