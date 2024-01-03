@@ -4,5 +4,4 @@ function sayHello(){
 
 sayHello()
 
-ds
 module.exports = sayHello;
